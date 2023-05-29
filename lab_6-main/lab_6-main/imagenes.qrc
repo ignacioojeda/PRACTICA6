@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/graficos">
+        <file>imagenes/bola.png</file>
+        <file>imagenes/newton.png</file>
+    </qresource>
+</RCC>
